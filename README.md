@@ -1,3 +1,3 @@
-# YTVD - YoTube Video Downloader
+# YTVD - YouTube Video Downloader
 
-An application made in Python to download YouTube videos.
+Application made in Python to download YouTube videos.
