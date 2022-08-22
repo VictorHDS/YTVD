@@ -1,6 +1,6 @@
 # YTVD - YouTube Video Downloader
 
-!["Index" Page](./venv/screenshots/Screenshot_Code.png)
+!["Index" Page](./screenshots/Screenshot_Code.png)
 
 ## Description:
 
