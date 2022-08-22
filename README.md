@@ -7,7 +7,7 @@
 
 !["Index" Page](./screenshots/Screenshot_Example.png)
 
-## Description:
+## Overview:
 Application made in Python to download YouTube videos. 
 
 This is an old project that I decided to re-upload to GitHub, with the python up to date and the commits with standards
