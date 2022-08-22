@@ -35,3 +35,8 @@ This is an old project that I decided to re-upload to GitHub, with the python up
 ## Notes:
 * By default, the application downloads videos in the highest possible resolution;
 * There is no size limit. It is possible to download any video of any size, taking the necessary time to download it.
+
+## External Links:
+
+* How to use [Pytube](https://pypi.org/project/pytube/);
+* How to use [Auto-Py-To-Exe](https://pypi.org/project/auto-py-to-exe/).
