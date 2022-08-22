@@ -1,7 +1,7 @@
 # YTVD - YouTube Video Downloader
 !["Index" Page](./assets/images/YTVD_Banner.png)
 
-!["Index" Page](./screenshots/Screenshot_Code.png)
+!["Index" Page](./assets/images/YTVD_Code.png)
 
 !["Index" Page](./screenshots/Screenshot_CLI.png)
 
